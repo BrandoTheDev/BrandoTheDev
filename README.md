@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BrandoTheDev
-- 👀 I’m interested in AI, security, backend development.
+- 👀 I’m interested in AI, security, & automation.
 - 🌱 I’m currently learning Java & SQL
 - 💞️ I’m looking to collaborate!
 - 📫 Business Email: BrandoTheDev@gmail.com
