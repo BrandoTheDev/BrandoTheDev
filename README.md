@@ -7,4 +7,8 @@
 - Laptop: Xubuntu
 
 💡 Others:
-Editor: VSCode, PyCharm, Eclipse, Intellij
+Editors: 
+- VSCode
+- PyCharm
+- Eclipse
+- Intellij
