@@ -9,6 +9,4 @@
 💡 Others:
 Editors: 
 - VSCode
-- PyCharm
 - Eclipse
-- Intellij
