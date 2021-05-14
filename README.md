@@ -6,7 +6,6 @@
 - Desktop: Win 10
 - Laptop: Xubuntu
 
-💡 Others:
-Editors: 
+💡 Editors: 
 - VSCode
 - Eclipse
