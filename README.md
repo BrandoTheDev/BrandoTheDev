@@ -1,5 +1,10 @@
-- 👋 Hi, I’m Brandon AKA @BrandoTheDev
-- 🌱 I’m currently learning Backend Development (Java, SQL, Spring Boot)
-- ❤️ I love linux, python and puzzles!
+✏ Languages:
+- using: Java, Python, SQL
+- learning: Spring Boot, Lua, C++
 
-- 📫 Business Email: BrandoTheDev@gmail.com
+💻 Devices/OS:
+- Desktop: Win 10
+- Laptop: Xubuntu
+
+💡 Others:
+Editor: VSCode, PyCharm, Eclipse, Intellij
