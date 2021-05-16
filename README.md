@@ -1,6 +1,6 @@
 ✏ Languages:
-- using: Java, Python, SQL
-- learning: Spring Boot, Lua, C++
+- using: Java, Python, SQL, Spring Boot
+- learning: MongoDB, Express, React, Node
 
 💻 Devices/OS:
 - Desktop: Win 10
