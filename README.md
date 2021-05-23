@@ -1,5 +1,5 @@
 ✏ Languages:
-- using: Java, Python, SQL, Spring Boot
+- using: Java, Python, SQL, Spring Boot, Maven
 - learning: MongoDB, Express, React, Node
 
 💻 Devices/OS:
@@ -7,5 +7,6 @@
 - Laptop: Xubuntu
 
 💡 Editors: 
+- IntelliJ
 - VSCode
 - Eclipse
