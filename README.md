@@ -5,9 +5,9 @@
 ---
 
 <p align="center"> 
-  🔭 Creating game mods, scripts, plugins and desktop software <br/>
   🌱 Learning CyberSecurity in my free time <br/>
-  ⚡ Completed the CompTIA A+ certification
+  ⚡ Completed the CompTIA A+ certification <br/>
+  🔭 Creating game mods, scripts, plugins and desktop software
 </p>
 
 ---
@@ -27,8 +27,11 @@
 </p>
 
 ---
+  <!-- Token issues - Removed for now
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandoTheDev&layout=compact&theme=vision-friendly-dark&card_width=420"> -->
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandoTheDev&layout=compact&theme=vision-friendly-dark&card_width=420)](https://github.com/anuraghazra/github-readme-stats)
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BrandoTheDev&theme=dark&background=000000&card_width=420)](https://git.io/streak-stats)
+  <p align="center">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=BrandoTheDev&theme=dark&background=000000&card_width=420">
+  </p>
 
 ---
