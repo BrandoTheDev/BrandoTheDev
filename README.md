@@ -6,8 +6,8 @@
 
 <p align="center"> 
   🔭 Creating game mods, scripts, plugins and desktop software <br/>
-  🌱 Learning Web Development in my free time. <br/>
-  ⚡ Finishing Core 2 to complete my CompTIA A+ certification
+  🌱 Learning CyberSecurity in my free time <br/>
+  ⚡ Completed the CompTIA A+ certification
 </p>
 
 ---
