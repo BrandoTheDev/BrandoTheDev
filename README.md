@@ -1,6 +1,6 @@
 <p align="center"><img src="https://media.giphy.com/media/dEvfJaOEzxl9AUSzHP/giphy.gif" width="200"/></p>
 
-<p align="center">Hello! I am a Developer from Nebraska, USA.</p>
+<p align="center">Hello! I am a Developer from The USA.</p>
 
 ---
 
