@@ -1,13 +1,14 @@
 <p align="center"><img src="https://media.giphy.com/media/dEvfJaOEzxl9AUSzHP/giphy.gif" width="200"/></p>
 
-<p align="center">Hello! I am a Developer from The USA.</p>
+<p align="center">👋 Hey there, I'm Brandon!</p>
 
 ---
 
-<p align="center"> 
-  🌱 Learning CyberSecurity in my free time <br/>
-  ⚡ Completed the CompTIA A+ certification <br/>
-  🔭 Creating game mods, scripts, plugins and desktop software
+### <p align="center">💡 What I am up to:</p>
+<p align="center">
+  ⚡ Recently earned the CompTIA A+ certification. <br/>
+  🌱 Currently diving deep into the world of Cybersecurity. <br/>
+  🔭 Passionate about crafting game mods, scripts, plugins, and desktop software.
 </p>
 
 ---
