@@ -28,11 +28,12 @@
 </p>
 
 ---
-  <!-- Token issues - Removed for now
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandoTheDev&layout=compact&theme=vision-friendly-dark&card_width=420"> -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandoTheDev&layout=compact&theme=vision-friendly-dark&card_width=420">
+</p>
 
-  <p align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=BrandoTheDev&theme=dark&background=000000&card_width=420">
-  </p>
-
+  <!-- Site isnt pulling right now
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=BrandoTheDev&theme=dark&background=000000&card_width=420">
+  -->
+  
 ---
