@@ -6,9 +6,9 @@
 
 ### <p align="center">💡 What I am up to:</p>
 <p align="center">
-  ⚡ Recently earned the CompTIA A+ certification. <br/>
-  🌱 Currently diving deep into the world of Cybersecurity. <br/>
-  🔭 Passionate about crafting game mods, scripts, plugins, and desktop software.
+  🌱 Currently diving deep into the world of C# and .NET! <br/>
+  🔭 Passionate about crafting game mods, plugins, websites, and desktop software. <br/>
+  ⚡ I've completed CompTIA A+ Cert, Java backend bootcamp Cert, Google Networking Cert, and Information Technology and Systems Cert!<br/>
 </p>
 
 ---
